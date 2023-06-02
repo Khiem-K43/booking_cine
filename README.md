@@ -6,6 +6,8 @@ Nguyễn Huy Khiêm
 
 Võ Tá Đức 
 
+Nguyễn Văn Thông
+
 Ngoài ra tên thành viên còn được ghi trong file "Danh sach thanh vien.docx"
 
 ## Getting Started
