@@ -1,6 +1,12 @@
 # flutter_application_1
 
-A new Flutter project.
+Tên thành viên:
+
+Nguyễn Huy Khiêm
+
+Võ Tá Đức 
+
+Ngoài ra tên thành viên còn được ghi trong file "Danh sach thanh vien.docx"
 
 ## Getting Started
 
